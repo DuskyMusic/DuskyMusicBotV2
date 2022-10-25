@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Dusky Support
+    url: https://t.me/DuskysSupport
+    about: Direct chat on non-inquiries subjects.
+  - name: Documentation
+    url: https://Dusky.tech/
+    about: Documentation for getting started with bot.
